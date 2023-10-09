@@ -2,4 +2,6 @@ import sys;
 
 print("Hello world")
 
-pirnt("Second hello world")
+print("Second hello world")
+
+print("third hello world")
